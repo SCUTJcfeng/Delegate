@@ -1,0 +1,8 @@
+c:\users\jc\documents\visual studio 2017\Projects\Button02\Button02\bin\Debug\Button02.exe.config
+c:\users\jc\documents\visual studio 2017\Projects\Button02\Button02\bin\Debug\Button02.exe
+c:\users\jc\documents\visual studio 2017\Projects\Button02\Button02\bin\Debug\Button02.pdb
+c:\users\jc\documents\visual studio 2017\Projects\Button02\Button02\obj\Debug\Button02.Form1.resources
+c:\users\jc\documents\visual studio 2017\Projects\Button02\Button02\obj\Debug\Button02.Properties.Resources.resources
+c:\users\jc\documents\visual studio 2017\Projects\Button02\Button02\obj\Debug\Button02.csproj.GenerateResource.Cache
+c:\users\jc\documents\visual studio 2017\Projects\Button02\Button02\obj\Debug\Button02.exe
+c:\users\jc\documents\visual studio 2017\Projects\Button02\Button02\obj\Debug\Button02.pdb
